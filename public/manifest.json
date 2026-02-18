@@ -1,0 +1,34 @@
+
+{
+  "short_name": "Moody Buddy",
+  "name": "Moody Buddy | Your buddy for every feeling",
+  "description": "A new kind of digital journal for kids. Understand feelings and build happy habits.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#50C878",
+  "background_color": "#F9F8F6",
+  "categories": ["education", "lifestyle", "kids"],
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}

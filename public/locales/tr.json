@@ -1,0 +1,201 @@
+
+{
+  "language_selection": {
+    "title": "Dilini seç"
+  },
+  "age_selection": {
+    "welcome": "Hoş geldiniz!",
+    "happy_to_see_you": "Burada olmanıza çok sevindik!",
+    "birthdate_prompt": "Sizinle birlikte büyümek ve size en iyi aktiviteleri sunmak için Buddy'ye doğum gününüzü söyleyin!",
+    "select_date": "Doğum gününüzü seçin",
+    "placeholder": "gg.aa.yyyy",
+    "confirm_button": "Haydi Başlayalım! 🚀",
+    "reset_note": "Bunu daha sonra isterseniz sıfırlayabilirsiniz.",
+    "invalid_format": "gg.aa.yyyy formatını kullanın",
+    "invalid_date": "Lütfen geçerli bir tarih girin",
+    "too_young": "En az 3 yaşında olmalısınız!",
+    "too_old": "Bu gerçek bir tarih mi? :)"
+  },
+  "home": {
+    "title": "Moody Buddy",
+    "subtitle": "Her duygu için dostun",
+    "reset_button_text": "Sıfırla ve Doğum Gününü Değiştir",
+    "more_activities_title": "Daha Fazla Eğlenceli Aktivite",
+    "happy_birthday_title": "İyi ki Doğdun! 🥳",
+    "happy_birthday_subtitle": "Buddy bugün seninle kutladığı için çok mutlu!",
+    "birthday_toast": "İyi ki Doğdun! Harika bir gün geçir! 🥳",
+    "age_7-9": {
+      "mood_check_title": "Bugün nasılsın?",
+      "mood_check_description": "Ruh haline dokun ve Buddy'ye nedenini söyle.",
+      "story_creator_title": "Hadi hikaye yazalım!",
+      "story_creator_description": "Sen bir satır yaz, Buddy sonrakini yazsın.",
+      "rap_battle_title": "Rapçi Buddy",
+      "rap_battle_description": "Senin hakkında havalı bir şarkı yap!",
+      "gratitude_jar_title": "Şükran Kavanozu",
+      "gratitude_jar_description": "Hadi neye minnettar olduğumuzu bulalım!",
+      "get_moving_title": "Hareket zamanı!",
+      "get_moving_description": "Hızlı ve eğlenceli bir aktivite dene.",
+      "kindness_act_title": "Bugün nazik ol",
+      "kindness_act_description": "Birisi için güzel bir şey yap.",
+      "calm_zone_title": "Derin bir nefes al",
+      "calm_zone_description": "Buddy ile bir anlığına rahatla.",
+      "reflections_title": "Günlüğüm",
+      "reflections_description": "Geçміш girdilerini gör."
+    },
+    "age_10-12": {
+      "mood_check_title": "Bugün nasılsın?",
+      "mood_check_description": "Neler olduğunu paylaş.",
+      "story_creator_title": "Hikaye oluşturun",
+      "story_creator_description": "Yazmaya başla — Buddy devam edecek.",
+      "rap_battle_title": "Yapay Zeka Rap Stüdyosu",
+      "rap_battle_description": "Benzersiz bir rap kafiyesi oluştur.",
+      "gratitude_jar_title": "Bugünün şükrü",
+      "gratitude_jar_description": "Gününde olan pozitif bir şeyi düşün.",
+      "get_moving_title": "Hızlı enerji molası",
+      "get_moving_description": "Kısa bir hareket meydan okuması dene.",
+      "kindness_act_title": "Bir iyilik yap",
+      "kindness_act_description": "Birinin gününü güzelleştir.",
+      "calm_zone_title": "Sakinliğini bul",
+      "calm_zone_description": "Nefes al, durakla, rahatla.",
+      "reflections_title": "Senin Günlüğün",
+      "reflections_description": "Düşüncelerini ve anlarını gözden geçir."
+    },
+    "age_12+": {
+      "mood_check_title": "Bugün nasılsın?",
+      "mood_check_description": "Duygularını kaydet ve gelişimini takip et.",
+      "story_creator_title": "Yaratıcı Yazarlık",
+      "story_creator_description": "Yapay zeka yardımıyla kapsamlı bir hikaye oluştur.",
+      "rap_battle_title": "Söz Laboratuvarı",
+      "rap_battle_description": "Gelişmiş dizeler ve kafiyeler hazırla.",
+      "gratitude_jar_title": "Farkındalık Perspektifi",
+      "gratitude_jar_description": "Hayatındaki anlamlı anlar üzerine düşün.",
+      "get_moving_title": "Vücut Farkındalığı",
+      "get_moving_description": "Enerjini sıfırlamak için fiziksel zorluklar.",
+      "kindness_act_title": "Sosyal Etki",
+      "kindness_act_description": "Topluluğun için olumlu eylemler.",
+      "calm_zone_title": "Zihinsel Huzur",
+      "calm_zone_description": "Gelişmiş farkındalık ve zihinsel odaklanma.",
+      "reflections_title": "Zihin Arşivi",
+      "reflections_description": "Kişisel içgörülerine derinlemesine dal."
+    }
+  },
+  "mood_check_screen": {
+    "title": "Nasıl hissediyorsun?",
+    "placeholder": "Seni bu şekilde hissettiren neydi?",
+    "save_button": "Ruh Halini Kaydet",
+    "buddy_support": "Buddy burada",
+    "continue": "Devam etmeye hazırım",
+    "buddy_thinking": "Buddy düşünüyor..."
+  },
+  "rap_battle_screen": {
+    "name_placeholder": "Adınız",
+    "mood_placeholder": "Nasıl hissediyorsunuz? (örn. Mutlu)",
+    "generate_button": "Ritmi Başlat! 🎤",
+    "loading": "Kafiyeler dökülüyor...",
+    "loading_lyrics": "Şarkı sözleri yazılıyor...",
+    "loading_audio": "Vokal kaydediliyor...",
+    "result_title": "Rap Şarkınız",
+    "another_button": "Başka Rap Yaz"
+  },
+  "gratitude_screen": {
+    "loading": "Güzel bir şey düşünüyorum...",
+    "complete_button": "Yaptım!",
+    "save_to_journal": "Günlüğe Kaydet",
+    "placeholder": "Cevabınızı buraya yazın...",
+    "another_button": "Bana bir tane daha ver",
+    "fallback_tasks": [
+      "Seni güldüren bir arkadaşını ve nedenini düşün.",
+      "Odandaki şükrettiğin bir şey nedir?",
+      "Yediğin lezzetli bir yemeği hatırla ve bunun için 'teşekkür ederim' de.",
+      "En sevdiğin oyuncağını ve onu neden sevdiğini düşün.",
+      "Bugün gördüğün güzel bir şey neydi?"
+    ]
+  },
+  "move_screen": {
+    "loading": "Isınıyorum...",
+    "complete_button": "Yaptım!",
+    "another_button": "Bana bir tane daha ver",
+    "fallback_tasks": [
+      "10 tane zıplama hareketi yap!",
+      "30 saniye boyunca yerinde koş.",
+      "Bir kurbağa gibi davran ve odanın etrafında 5 kez zıpla.",
+      "Kollarını gökyüzüne doğru olabildiğince yükseğe uzat.",
+      "En sevdiğin şarkıda bir dakika boyunca dans et."
+    ]
+  },
+  "kindness_screen": {
+    "loading": "İyi bir fikir düşünüyorum...",
+    "complete_button": "Bitti!",
+    "another_button": "Bana bir tane daha ver",
+    "fallback_tasks": [
+      "Ailenden birine kocaman sarıl.",
+      "Bir arkadaşın için resim çiz.",
+      "Yemek için masayı kurmaya yardım et.",
+      "Birine güzel bir şey söyle.",
+      "Oyuncaklarından birini kardeşinle veya bir arkadaşınla paylaş."
+    ]
+  },
+  "calm_zone_screen": {
+    "loading": "Sakin bir düşünce buluyorum...",
+    "breathing_exercise_button": "Nefes Egzersizi Dene",
+    "another_button": "Bana bir tane daha ver",
+    "breathe_title": "Nefes Al 🌬️",
+    "breathe_get_ready": "Hazır Ol...",
+    "breathe_in": "Nefes Al...",
+    "breathe_hold": "Tut",
+    "breathe_out": "Nefes Ver...",
+    "breathe_cycle_of": "Döngü {cycle} / {total}",
+    "breathe_get_ready_subtitle": "Nefes almaya hazırlan",
+    "fallback_tasks": [
+      "Güneşte bir dondurma külahı gibi eridiğini hayal et.",
+      "Şu anda etrafındaki üç farklı sesi dinle.",
+      "Parmaklarının mum olduğunu farz et ve onları birer birer yavaşça üfle.",
+      "'Gökyüzü' veya 'su' kelimelerini kullanmadan mavi rengini tarif et.",
+      "En sevdiğin yeri düşün. Nasıl görünüyor, sesi nasıl ve nasıl kokuyor?"
+    ]
+  },
+  "story_creator_screen": {
+    "adventure_title": "Maceramız",
+    "buddy_thinks": "Buddy düşünüyor...",
+    "loading": "Yeni bir hikaye hayal ediyorum...",
+    "placeholder": "Sonra ne oluyor?",
+    "add_sentence_button": "Cümlemi Ekle!",
+    "finish_button": "Bitir",
+    "finish_tooltip": "Önce biraz daha yaz!",
+    "end_title": "Son!",
+    "end_subtitle": "Ne harika bir hikaye yazdık!",
+    "another_story_button": "Başka Bir Hikaye Yaz",
+    "buddy_says": "Buddy diyor ki...",
+    "you_said": "Siz dediniz ki..."
+  },
+  "reflections_screen": {
+    "feeling_mood": "{mood} hissediyordum",
+    "story_wrote": "Bir hikaye yazdık: \"{title}\"",
+    "story_click_to_read": "Okumak için tıkla.",
+    "story_click_to_collapse": "Kapatmak için tıkla.",
+    "mood_chart_title": "Duygu Karışımım",
+    "reflection_title": "Aklınızda ne var?",
+    "reflection_placeholder": "Düşüncelerinizi buraya yazın...",
+    "save_reflection_button": "Yansımayı Kaydet",
+    "journal_title": "Günlüğünüz",
+    "journal_empty": "Ruh hali geçmişiniz ve yansımalarınız burada görünecek.",
+    "prompts": [
+      "Günün en güzel kısmı neydi?",
+      "Bugün ne öğrendiniz?",
+      "Bugün yeni bir şey denediniz mi?",
+      "Bugün sizi ne güldürdü?",
+      "Bugün kiminle konuşmaktan keyif aldınız?"
+    ]
+  },
+  "points_summary": {
+    "points": "🏆 Puanlar",
+    "streak": "Seri"
+  },
+  "moods": {
+    "Happy": "Mutlu",
+    "Sad": "Üzgün",
+    "Angry": "Kızgın",
+    "Worried": "Endişeli",
+    "Tired": "Yorgun"
+  }
+}

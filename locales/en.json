@@ -1,0 +1,166 @@
+{
+  "language_selection": {
+    "title": "Choose your language"
+  },
+  "age_selection": {
+    "welcome": "Welcome!",
+    "happy_to_see_you": "So happy you're here!",
+    "prompt": "To make the activities just right for you, please pick your age.",
+    "age_7_9": "I'm 7-9 years old",
+    "age_10_12": "I'm 10-12 years old",
+    "reset_note": "You can reset this later if you need to."
+  },
+  "home": {
+    "title": "Moody Buddy+",
+    "subtitle": "Your buddy for every feeling",
+    "reset_button_text": "Reset & Change Age",
+    "more_activities_title": "More Fun Activities",
+    "age_7-9": {
+      "mood_check_title": "How are you today?",
+      "mood_check_description": "Tap your mood and tell Buddy why.",
+      "story_creator_title": "Let's make a story!",
+      "story_creator_description": "You write one line, Buddy writes the next.",
+      "rap_battle_title": "Buddy the Rapper",
+      "rap_battle_description": "Make a cool song about you!",
+      "gratitude_jar_title": "What made you smile?",
+      "gratitude_jar_description": "Let’s find something happy!",
+      "get_moving_title": "Time to move!",
+      "get_moving_description": "Try a quick silly activity.",
+      "kindness_act_title": "Be kind today",
+      "kindness_act_description": "Do something nice for someone.",
+      "calm_zone_title": "Take a deep breath",
+      "calm_zone_description": "Relax with Buddy for a moment.",
+      "reflections_title": "My Journal",
+      "reflections_description": "See your past entries."
+    },
+    "age_10-12": {
+      "mood_check_title": "How are you feeling?",
+      "mood_check_description": "Share what’s going on with you.",
+      "story_creator_title": "Create a story",
+      "story_creator_description": "Start writing — Buddy will continue.",
+      "rap_battle_title": "AI Rap Studio",
+      "rap_battle_description": "Generate a unique rap rhyme.",
+      "gratitude_jar_title": "Today's gratitude",
+      "gratitude_jar_description": "Think of something positive in your day.",
+      "get_moving_title": "Quick energy break",
+      "get_moving_description": "Try a short movement challenge.",
+      "kindness_act_title": "Do a kind act",
+      "kindness_act_description": "Make someone’s day better.",
+      "calm_zone_title": "Find your calm",
+      "calm_zone_description": "Breathe, pause, relax.",
+      "reflections_title": "Your Journal",
+      "reflections_description": "Review your thoughts and moments."
+    }
+  },
+  "mood_check_screen": {
+    "placeholder": "What made you feel this way?",
+    "save_button": "Save Mood"
+  },
+  "rap_battle_screen": {
+    "name_placeholder": "Your Name",
+    "mood_placeholder": "How do you feel? (e.g. Happy, Cool)",
+    "generate_button": "Drop the Beat! 🎤",
+    "loading": "Dropping rhymes...",
+    "result_title": "Your Rap Song",
+    "another_button": "Write Another Rap"
+  },
+  "gratitude_screen": {
+    "loading": "Thinking of something nice...",
+    "complete_button": "I did it!",
+    "another_button": "Give me another one",
+    "fallback_tasks": [
+      "Think of a friend who made you laugh and why.",
+      "What's one thing in your room you're thankful for?",
+      "Remember a yummy meal you had and say 'thank you' for it.",
+      "Think about your favorite toy and why you love it.",
+      "What is something beautiful you saw today?"
+    ]
+  },
+  "move_screen": {
+    "loading": "Warming up...",
+    "complete_button": "I did it!",
+    "another_button": "Give me another one",
+    "fallback_tasks": [
+      "Do 10 jumping jacks!",
+      "Run in place for 30 seconds.",
+      "Pretend you are a frog and hop around the room 5 times.",
+      "Stretch your arms to the sky as high as you can.",
+      "Dance to your favorite song for one minute."
+    ]
+  },
+  "kindness_screen": {
+    "loading": "Thinking of a kind idea...",
+    "complete_button": "Done!",
+    "another_button": "Give me another one",
+    "fallback_tasks": [
+      "Give someone in your family a big hug.",
+      "Draw a picture for a friend.",
+      "Help set the table for a meal.",
+      "Say something nice to someone.",
+      "Share one of your toys with a sibling or friend."
+    ]
+  },
+  "calm_zone_screen": {
+    "loading": "Finding a calm thought...",
+    "breathing_exercise_button": "Try a Breathing Exercise",
+    "another_button": "Give me another one",
+    "breathe_title": "Breathe 🌬️",
+    "breathe_get_ready": "Get Ready...",
+    "breathe_in": "Breathe In...",
+    "breathe_hold": "Hold",
+    "breathe_out": "Breathe Out...",
+    "breathe_cycle_of": "Cycle {cycle} of {total}",
+    "breathe_get_ready_subtitle": "Get ready to breathe",
+    "fallback_tasks": [
+      "Imagine you are melting like an ice cream cone in the sun.",
+      "Listen for three different sounds around you right now.",
+      "Pretend your fingers are candles and gently blow them out one by one.",
+      "Describe the color blue without using the words 'sky' or 'water'.",
+      "Think of your favorite place. What does it look, sound, and smell like?"
+    ]
+  },
+  "story_creator_screen": {
+    "adventure_title": "Our Adventure",
+    "buddy_thinks": "Buddy is thinking...",
+    "loading": "Dreaming up a new story...",
+    "placeholder": "What happens next?",
+    "add_sentence_button": "Add My Sentence!",
+    "finish_button": "Finish",
+    "finish_tooltip": "Write a little more first!",
+    "end_title": "The End!",
+    "end_subtitle": "What a great story we wrote!",
+    "another_story_button": "Write Another Story",
+    "buddy_says": "Buddy says...",
+    "you_said": "You said..."
+  },
+  "reflections_screen": {
+    "feeling_mood": "I was feeling {mood}",
+    "story_wrote": "We wrote a story: \"{title}\"",
+    "story_click_to_read": "Click to read.",
+    "story_click_to_collapse": "Click to collapse.",
+    "mood_chart_title": "My Mood Mix",
+    "reflection_title": "What's on your mind?",
+    "reflection_placeholder": "Write your thoughts here...",
+    "save_reflection_button": "Save Reflection",
+    "journal_title": "Your Journal",
+    "journal_empty": "Your mood history and reflections will appear here.",
+    "prompts": [
+      "What was the best part of your day?",
+      "What did you learn today?",
+      "Did you try anything new today?",
+      "What made you laugh today?",
+      "Who did you enjoy talking to today?"
+    ]
+  },
+  "points_summary": {
+    "points": "🏆 Points",
+    "streak": "Streak"
+  },
+  "moods": {
+    "Happy": "Happy",
+    "Sad": "Sad",
+    "Angry": "Angry",
+    "Worried": "Worried",
+    "Tired": "Tired"
+  }
+}

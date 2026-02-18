@@ -1,0 +1,5 @@
+{
+  "name": "ASEF - Moody Buddy",
+  "description": "Moody Buddy is a smart PWA designed as an empathetic digital friend to help children understand and express their emotions. Using Gemini 1.5 Flash and Prompt Engineering, it adapts its responses to the user's age to provide safe, personalized support in Macedonian, Turkish, and English. The project aims to reduce emotional isolation and foster a friendlier school environment where every mood matters.",
+  "requestFramePermissions": []
+}
