@@ -96,10 +96,10 @@ const HomeScreen: React.FC = () => {
   const footerContent = (
     <div className="pb-4">
       <p className="text-sm">
-        by <span className="font-semibold text-teal-700">Damjan Agovski</span>
+        by <span className="font-semibold text-teal-700">Damjan Agovski & Nikolas Georgievski</span>
       </p>
       <p className="text-xs mt-1">
-        ASEF 2026
+        FIRSTEP Macedonia Project Competition 2026
       </p>
       
       <div className="flex flex-col gap-3 mt-6 items-center w-full">
