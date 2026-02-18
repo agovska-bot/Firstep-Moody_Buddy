@@ -40,9 +40,9 @@ The development and deployment workflow is fully automated:
 ---
 
 ## 👨‍💻 Authors
-**Damjan Agovski**
+**Damjan Agovski & Nikolas Georgievski**
 
-Project created for **ASEF 2026**.
+Project created for **Firstep 2026**.
 
 ---
 
